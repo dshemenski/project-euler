@@ -1,0 +1,2 @@
+defmodule EulerProblems do
+end
