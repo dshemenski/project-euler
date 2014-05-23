@@ -1,4 +1,0 @@
-EulerProblems
-=============
-
-** TODO: Add description **
